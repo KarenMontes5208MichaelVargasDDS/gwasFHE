@@ -1,4 +1,4 @@
-```markdown
+
 # Private Genome-Wide Association Studies (GWAS) Tool
 
 The **GWASFHE** project is an innovative solution designed for conducting privacy-preserving genome-wide association studies using **Zama's Fully Homomorphic Encryption technology**. This tool enables multiple research entities to collectively analyze encrypted genomic and phenotypic data (such as disease status) without compromising individual privacy, thereby accelerating the discovery of disease-associated genetic loci.
